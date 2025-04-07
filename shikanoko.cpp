@@ -60,10 +60,13 @@ int main()
     }
 
     int index = 0;
-    while (index < 7)
+    int cnt = 0;
+    while (index < 7 && cnt < 100)
     {
         file << shikanoko[index];
         index = next(index);
+
+        cnt++; // 実行回数が100回以上だと終わる
     }
     file.close();
 }
