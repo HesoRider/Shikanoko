@@ -1,10 +1,10 @@
 # はじめに
 去年、TVアニメ「[しかのこのこのここしたんたん](https://www.anime-shikanoko.jp/)」にめちゃハマりました。
 特にOPめっちゃすこです。
-<video src="https://www.youtube.com/watch?v=ZZvIVRQ4E7I" controls="true"></video>
+[![しかのこOP](https://img.youtube.com/vi/ZZvIVRQ4E7I/mqdefault.jpg)](https://youtu.be/ZZvIVRQ4E7I?si=Wfah5x6Vb13pj6yq)
 
 これを題材に、「しかのこのこのここしたんたん」という文字列がマルコフ連鎖で現れる過程を示した動画がありました。
-<video src="https://www.youtube.com/watch?v=Xkq13ZthmA0" controls="true"></video>
+[![しかのこマルコフ連鎖](https://img.youtube.com/vi/Xkq13ZthmA0/mqdefault.jpg)](https://www.youtube.com/watch?v=Xkq13ZthmA0)
 
 非常に面白い。というわけで自分でも実装してみようと試みたのがこのリポジトリになります。
 
