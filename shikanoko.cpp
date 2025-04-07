@@ -55,7 +55,7 @@ int main()
     ofstream file("output.txt");
     if (!file)
     {
-        cout << "No File!" << endl;
+        cerr << "No File!" << endl;
         exit(1);
     }
 
